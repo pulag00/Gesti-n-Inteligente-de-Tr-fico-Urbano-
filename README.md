@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-# Gesti-n-Inteligente-de-Tr-fico-Urbano-
-Proyecto Introducción Sistemas Distribuidos
-=======
+
 #   Entrega 1 Proyecto Distribuidos
 
 ## Autores 
 
-José D.Medina; Luis Santos; Santiago Hernandez; Paula Losada
+José D.Medina, Luis Santos, Santiago Hernandez y Paula Losada
 
 # 🚦 Sistema de Control de Tráfico Urbano Distribuido
 
